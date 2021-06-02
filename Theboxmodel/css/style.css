@@ -1,0 +1,28 @@
+.row {
+    padding: 10px;  
+    background-color:orange ;
+    border: 2px solid black;
+    /* margin-right: 200px; */
+
+}
+.row div {
+    height: 500px;
+    border: 2px solid black;
+    width: 250px;
+    display: inline-block;
+    margin: 40px 30px 40px 30px;
+}
+
+#column1 {
+   background-color: red ; 
+}
+#column2 {
+    background-color: green ; 
+ }
+
+ #column3 {
+   background-color: blue ; 
+}
+#column4 {
+    background-color: purple ; 
+ }
