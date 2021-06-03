@@ -16,13 +16,34 @@
 #column1 {
    background-color: red ; 
 }
+
+#column1 h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
+}
+
 #column2 {
     background-color: green ; 
+    height: 50vh;
  }
 
+ #column2 h1 {
+     font-size: 30pt;
+ }
+
+
  #column3 {
-   background-color: blue ; 
+    background-color: blue ; 
+    width: 15%;
 }
+
+#column3 h1 {
+    font-size: 6em;
+}
+
+    
 #column4 {
     background-color: purple ; 
+    margin: 20px;
+    width: 10vw;
  }
